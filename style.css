@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    text-align:center;
+  }
+  
+  .container{
+        display: flex;
+        justify-content:space-around;
+        margin:150px auto;
+        background:blueviolet;
+        border:5px solid white;
+        border-radius: 30px;
+        box-shadow: 0px 0px 4px black;
+        width:70vh;
+  }
+  
+  .score{
+    background:black;
+    color:red;
+    font-size: 90px;
+    margin: 20px;
+    width:100px;
+
+  }
+
+  button{
+    background: none;
+    font-size: 90%;
+    margin-bottom: 10px;
+  }
